@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this database, please cite it as below."
+title: "CryingCatalyst: A Consolidated Macroeconomic Indicator Database for Bangladesh"
+type: dataset
+authors:
+  - given-names: K. M. Miad Hassan
+    family-names: Ornob
+    alias: Ow1nomics
+repository-code: "https://github.com/o-rnob/CryingCatalyst"
+url: "https://github.com/o-rnob/CryingCatalyst"
+license: MIT
+version: 1.0.0
+date-released: 2026-08-15
+keywords:
+  - Bangladesh
+  - macroeconomics
+  - GDP
+  - inflation
+  - CPI
+  - foreign exchange reserves
+  - remittances
+  - policy rate
+  - open data
+  - SQLite
+abstract: >
+  CryingCatalyst is a consolidated, queryable SQLite database of Bangladesh
+  macroeconomic indicators spanning national accounts, prices and inflation,
+  the external sector, monetary and financial data, the fiscal sector, and
+  labour and demographics — compiled from Bangladesh Bank, BBS, the Ministry
+  of Finance, NBR, the World Bank, the IMF, the ADB, EPB, and BIDA.
+preferred-citation:
+  type: dataset
+  title: "CryingCatalyst: A Consolidated Macroeconomic Indicator Database for Bangladesh"
+  authors:
+    - given-names: K. M. Miad Hassan
+      family-names: Ornob
+      alias: Ow1nomics
+  year: 2026
+  url: "https://github.com/o-rnob/CryingCatalyst"
